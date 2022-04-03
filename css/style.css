@@ -1,8 +1,19 @@
+body{
+    font: 20px arial,sans-serif;
+}
+
 .navbar {
     background-color: #ccc;
 }
 
 .quem-somos{
     background-color: #809EF7
+}
 
+.parceiros {
+    background-color: #2EFF65
+}
+
+.servicos{
+    background-color: #F6D359
 }
